@@ -1,0 +1,383 @@
+{
+  "main": {
+    "id": "70c80f2189ae49e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee8df4ecba0268fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "048a22496783634d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/Recipe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1151753abfaadd97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/Ingredients.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c598ba5cb931f166",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingredient/Vegetable/Potato.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "53276cdd9b9b9b40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipe/Main Dish/Potato with Balsamic Butter Sauce.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e058f96da6ddf8f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipe/Main Dish/Potato with Balsamic Butter Sauce.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "290182113d13d387",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipe/Main Dish/Potato with Balsamic Butter Sauce.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "40e3984656ab5ceb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipe/Main Dish/Potato with Balsamic Butter Sauce.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1398339f9a375cc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingredient/Condiment/Salt.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "62136cc24a9c956b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipe/Main Dish/Potato with Balsamic Butter Sauce.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "429392caed631689",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipe/Main Dish/Potato with Balsamic Butter Sauce.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "32e7cc5cd7dd04e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipe/Dessert/Cake/Gingerbread.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b4505034994bf7e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingredient/Bakery/Honey.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "935393fa35437d2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingredient/Bakery/Flour.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6b93aa9434befab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingredient/Bakery/Sugar.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1099229034d01c0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingredient/Dairy/Milk.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "31ea74c581b0cdf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingredient/Bakery/Baking Powder.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7e518a2e55699fab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingredient/Bakery/Vanilla.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "af20274bcd9ffa8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingredient/Spices/Cinamon.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ac01e29f38455450",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingredient/Spices/All Spice.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "380e7bb2983652c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipe/Dessert/Cake/Gingerbread.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 19
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d660bd7c6e124965",
+    "type": "split",
+    "children": [
+      {
+        "id": "641e2057305fa1e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0973fe783657ec68",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d833af0309450024",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5dc98cbbca856753",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2f338bf6ab02d684",
+    "type": "split",
+    "children": [
+      {
+        "id": "51d7e411b7f1ebd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e2bc3cdfadcc637",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Recipe/Dessert/Cake/Gingerbread.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08c6b7a2cad75442",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Recipe/Dessert/Cake/Gingerbread.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0920bfba4915cd1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "299210de8c027650",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Recipe/Dessert/Cake/Gingerbread.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "380e7bb2983652c7",
+  "lastOpenFiles": [
+    "Ingredient/Bakery/Baking Powder.md",
+    "Recipe/Dessert/Cake/Gingerbread.md",
+    "Ingredient/Dairy/Butter.md",
+    "Ingredient/Dairy/Milk.md",
+    "Recipe/Main Dish/Potato with Balsamic Butter Sauce.md",
+    "Ingredient/Bakery/Bicarbonate of Soda.md",
+    "Ingredient/Spices/All Spice.md",
+    "Ingredient/Spices/Cinamon.md",
+    "Ingredient/Bakery/Vanilla.md",
+    "Ingredient/Bakery/Sugar.md"
+  ]
+}
