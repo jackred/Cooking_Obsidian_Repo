@@ -239,6 +239,102 @@
             "id": "380e7bb2983652c7",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c4deb80f45a7874c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipe/Dessert/Crepes.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6edfe19458ce6524",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipe/Dessert/Crepes.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f76208db16f044d9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "47c8311a7f2cd92f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipe/Dessert/Cake/Carrot Cake.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b6690c920b2b5e7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipe/Dessert/Cake/Carrot Cake.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b3658953a8df21bd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "244c247656061eb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipe/Dessert/Cake/Carrot Cake.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d1a553370c6c15e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipe/Dessert/Cake/Carrot Cake.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8a9b08f8514d1f13",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Recipe/Dessert/Cake/Gingerbread.md",
@@ -248,7 +344,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -367,17 +463,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "380e7bb2983652c7",
+  "active": "8a9b08f8514d1f13",
   "lastOpenFiles": [
-    "Ingredient/Bakery/Baking Powder.md",
+    "Recipe/Dessert/Cake/Carrot Cake.md",
     "Recipe/Dessert/Cake/Gingerbread.md",
-    "Ingredient/Dairy/Butter.md",
-    "Ingredient/Dairy/Milk.md",
-    "Recipe/Main Dish/Potato with Balsamic Butter Sauce.md",
-    "Ingredient/Bakery/Bicarbonate of Soda.md",
-    "Ingredient/Spices/All Spice.md",
-    "Ingredient/Spices/Cinamon.md",
-    "Ingredient/Bakery/Vanilla.md",
-    "Ingredient/Bakery/Sugar.md"
+    "Recipe/Dessert/Crepes.md",
+    "Ingredient/Fruit/Lemon.md",
+    "Ingredient/Fruit/Nut/Almond.md",
+    "Ingredient/Bakery/Almond Powder.md",
+    "2022-11-06.md",
+    "Ingredient/Bakery/Almond.md",
+    "Ingredient/Vegetable/Carrot.md",
+    "Ingredient/Alcool/Rhum.md"
   ]
 }
