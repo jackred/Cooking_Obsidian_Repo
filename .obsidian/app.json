@@ -1,5 +1,6 @@
 {
   "promptDelete": false,
   "livePreview": false,
-  "attachmentFolderPath": "Ingredient"
+  "attachmentFolderPath": "Ingredient",
+  "alwaysUpdateLinks": true
 }

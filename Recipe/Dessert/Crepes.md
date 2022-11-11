@@ -8,7 +8,7 @@ aliases: []
 ----
 ## Ingredients
 - 250g [[Flour]]
-- 4 [[Eggs]]
+- 4 [[Egg]]
 - 500ml (adviced cold) [[Milk]] (I don't advice non dairy milk with this recipe)
 - 1 pinch of [[Salt]]
 - 2 big spoon of [[Sugar]]
@@ -21,7 +21,7 @@ aliases: []
 ## Instructions
 ### The Dough
 - Add the [[Flour]] in a bowl, with the [[Salt]] and the [[Sugar]]
-- Add the [[Eggs]] in the center
+- Add the [[Egg]] in the center
 	- Mix slowly
 - When it starts to be mixed, add the [[Milk]] bit by bit
 - Add the melted [[Butter]] and mix well

@@ -13,42 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Recipe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1151753abfaadd97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Ingredients.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c598ba5cb931f166",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingredient/Vegetable/Potato.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "53276cdd9b9b9b40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Recipe/Main Dish/Potato with Balsamic Butter Sauce.md",
                 "mode": "source",
                 "source": true
@@ -56,103 +20,7 @@
             }
           },
           {
-            "id": "e058f96da6ddf8f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipe/Main Dish/Potato with Balsamic Butter Sauce.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "290182113d13d387",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipe/Main Dish/Potato with Balsamic Butter Sauce.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "40e3984656ab5ceb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipe/Main Dish/Potato with Balsamic Butter Sauce.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1398339f9a375cc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingredient/Condiment/Salt.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "62136cc24a9c956b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipe/Main Dish/Potato with Balsamic Butter Sauce.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "429392caed631689",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipe/Main Dish/Potato with Balsamic Butter Sauce.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "32e7cc5cd7dd04e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipe/Dessert/Cake/Gingerbread.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b4505034994bf7e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingredient/Bakery/Honey.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "935393fa35437d2a",
+            "id": "49e537368dd18657",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,187 +32,103 @@
             }
           },
           {
-            "id": "6b93aa9434befab8",
+            "id": "5023484261039c4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingredient/Bakery/Sugar.md",
+                "file": "Recipe/Main Dish/Galette Bretonne.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "1099229034d01c0c",
+            "id": "eac29d9351ebc03d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingredient/Dairy/Milk.md",
+                "file": "Recipe/Main Dish/Galette Bretonne.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "31ea74c581b0cdf0",
+            "id": "73e510191e1c1234",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingredient/Bakery/Baking Powder.md",
+                "file": "Recipe/Main Dish/Galette Bretonne.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "7e518a2e55699fab",
+            "id": "63af9abbb78b6590",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingredient/Bakery/Vanilla.md",
+                "file": "Ingredient/Condiment/Sesame Oil.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "af20274bcd9ffa8e",
+            "id": "e15519ceac02e9ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingredient/Spices/Cinamon.md",
+                "file": "Recipe/Main Dish/Galette Bretonne.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "ac01e29f38455450",
+            "id": "e0786f5ebcc97308",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingredient/Spices/All Spice.md",
+                "file": "Recipe/Main Dish/Galette Bretonne.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "380e7bb2983652c7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "c4deb80f45a7874c",
+            "id": "2652a0ac69a0bed6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipe/Dessert/Crepes.md",
+                "file": "Ingredient/Dairy/Gouda.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "6edfe19458ce6524",
+            "id": "63f68a68dd4ee04d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipe/Dessert/Crepes.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f76208db16f044d9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "47c8311a7f2cd92f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipe/Dessert/Cake/Carrot Cake.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b6690c920b2b5e7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipe/Dessert/Cake/Carrot Cake.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b3658953a8df21bd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "244c247656061eb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipe/Dessert/Cake/Carrot Cake.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d1a553370c6c15e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipe/Dessert/Cake/Carrot Cake.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8a9b08f8514d1f13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipe/Dessert/Cake/Gingerbread.md",
+                "file": "Recipe/Main Dish/Galette Bretonne.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 28
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -410,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipe/Dessert/Cake/Gingerbread.md",
+                "file": "Recipe/Main Dish/Galette Bretonne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -427,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipe/Dessert/Cake/Gingerbread.md",
+                "file": "Recipe/Main Dish/Galette Bretonne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -450,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipe/Dessert/Cake/Gingerbread.md"
+                "file": "Recipe/Main Dish/Galette Bretonne.md"
               }
             }
           }
@@ -460,20 +244,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "8a9b08f8514d1f13",
+  "active": "63f68a68dd4ee04d",
   "lastOpenFiles": [
-    "Recipe/Dessert/Cake/Carrot Cake.md",
     "Recipe/Dessert/Cake/Gingerbread.md",
-    "Recipe/Dessert/Crepes.md",
-    "Ingredient/Fruit/Lemon.md",
-    "Ingredient/Fruit/Nut/Almond.md",
-    "Ingredient/Bakery/Almond Powder.md",
-    "2022-11-06.md",
-    "Ingredient/Bakery/Almond.md",
-    "Ingredient/Vegetable/Carrot.md",
-    "Ingredient/Alcool/Rhum.md"
+    "Recipe/Main Dish/Galette Bretonne.md",
+    "Ingredient/Dairy/Comté.md",
+    "Ingredient/Dairy/Gouda.md",
+    "Ingredient/Dairy/Cheddar.md",
+    "Ingredient/Dairy/Crème fraiche.md",
+    "Ingredient/Condiment/Sesame Oil.md",
+    "Ingredient/Mushroom/Brown Mushroom.md",
+    "Ingredient/Animal/Egg.md",
+    "Ingredient/Water.md"
   ]
 }

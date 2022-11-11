@@ -10,7 +10,7 @@ aliases: []
 ## Ingredients
 - 300g [[Carrot]] (grated)
 - 250g [[Almond Powder]]
-- 4 [[Eggs]]
+- 4 [[Egg]]
 - 200g [[Sugar]]
 - 60g [[Flour]]
 - Half [[Lemon]] juice
@@ -22,7 +22,7 @@ aliases: []
 ----
 ## Instructions
 - Grate the [[Carrot]] so you end up with 300g
-- Mix the [[Sugar]] and the yolk of the [[Eggs]] until it start to whiten 
+- Mix the [[Sugar]] and the yolk of the [[Egg]] until it start to whiten 
 - Add one by one the [[Lemon]] juice, the [[Carrot]], the [[Almond Powder]], the [[Flour]], the [[Salt]] and the [[Baking Powder]]. Mix well in between each ingredients
 - Whip the egg whites until stiff
 - Add them delicately to the mix:
