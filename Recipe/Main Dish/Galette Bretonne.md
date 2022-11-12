@@ -32,8 +32,8 @@ aliases: []
 - 500ml [[Crème fraiche]]
 - 2 pinch of [[Pepper]]
 - At least 7 [[Egg]]
-- Some [[Butter]] or [[Olive Oil]]
-- Some cheese, such as [[Cheddar]],  [[Gouda]] or [[Comté]] (can be mixed)
+- Some [[Butter]] or [[Oil]]
+- Some cheese, such as [[Cheddar]], [[Gouda]] or [[Comté]] (can be mixed)
 
 ----
 ## Instructions
@@ -48,6 +48,6 @@ aliases: []
 	- Close the galette
 	- Repeat to fill the tray
 	- Put them in the oven at 150°C for a few minutes (until the cheese melt)
-- During this time, put as many eggs as there's galette in the oven in a pan with the [[Butter]] or the [[Olive Oil]], for a feww minutes until they're ready
+- During this time, put as many eggs as there's galette in the oven in a pan with the [[Butter]] or the [[Oil]], for a feww minutes until they're ready
 - Take the galette out of the oven, and put one egg on top of each
 - Repeat if you have more galette

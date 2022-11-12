@@ -2,11 +2,8 @@
 aliases: []
 ---
 #Ingredient
-#Sesame_Oil
-#Oil
+#Apple
 #Vegetarian
 #Vegan
 #Gluten_Free
 #Lactose_Free
-
-Sesame [[Oil]]

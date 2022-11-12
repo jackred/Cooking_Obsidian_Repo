@@ -8,14 +8,28 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Recipe",
+      "query": "path:Recipe/Dessert",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:Ingredient",
+      "query": "path:\"Recipe/Main Dish\"",
+      "color": {
+        "a": 1,
+        "rgb": 5410784
+      }
+    },
+    {
+      "query": "#vegan",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "#vegetarian",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -32,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7205192071614291,
-  "close": true
+  "scale": 0.6442545798727061,
+  "close": false
 }

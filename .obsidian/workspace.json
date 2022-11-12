@@ -4,131 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "ee8df4ecba0268fa",
+        "id": "5eebfcdf54e24e5a",
         "type": "tabs",
         "children": [
           {
-            "id": "048a22496783634d",
+            "id": "62b209d062d37978",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "3e36d3bb57a41be0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipe/Main Dish/Potato with Balsamic Butter Sauce.md",
+                "file": "Recipe/Dessert/Cake/Apple upside down cake.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "49e537368dd18657",
+            "id": "17e3d8ddb4a6aac5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingredient/Bakery/Flour.md",
+                "file": "Recipe/Dessert/Cake/Apple upside down cake.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "5023484261039c4f",
+            "id": "74bbb7c9e45cd623",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipe/Main Dish/Galette Bretonne.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "eac29d9351ebc03d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipe/Main Dish/Galette Bretonne.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "73e510191e1c1234",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipe/Main Dish/Galette Bretonne.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "63af9abbb78b6590",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingredient/Condiment/Sesame Oil.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e15519ceac02e9ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipe/Main Dish/Galette Bretonne.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e0786f5ebcc97308",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipe/Main Dish/Galette Bretonne.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2652a0ac69a0bed6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingredient/Dairy/Gouda.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "63f68a68dd4ee04d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipe/Main Dish/Galette Bretonne.md",
+                "file": "Recipe/Dessert/Cake/Apple upside down cake.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -194,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipe/Main Dish/Galette Bretonne.md",
+                "file": "Recipe/Dessert/Cake/Apple upside down cake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipe/Main Dish/Galette Bretonne.md",
+                "file": "Recipe/Dessert/Cake/Apple upside down cake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipe/Main Dish/Galette Bretonne.md"
+                "file": "Recipe/Dessert/Cake/Apple upside down cake.md"
               }
             }
           }
@@ -244,17 +168,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "63f68a68dd4ee04d",
+  "active": "0973fe783657ec68",
   "lastOpenFiles": [
     "Recipe/Dessert/Cake/Gingerbread.md",
-    "Recipe/Main Dish/Galette Bretonne.md",
-    "Ingredient/Dairy/Comté.md",
+    "Recipe/Dessert/Cake/Apple upside down cake.md",
+    "Ingredient/Condiment/Olive Oil.md",
     "Ingredient/Dairy/Gouda.md",
-    "Ingredient/Dairy/Cheddar.md",
-    "Ingredient/Dairy/Crème fraiche.md",
+    "Recipe/Main Dish/Galette Bretonne.md",
     "Ingredient/Condiment/Sesame Oil.md",
-    "Ingredient/Mushroom/Brown Mushroom.md",
-    "Ingredient/Animal/Egg.md",
-    "Ingredient/Water.md"
+    "Recipe/Main Dish/Potato with Balsamic Butter Sauce.md",
+    "Ingredient/Bakery/Powdered Sugar.md",
+    "Ingredient/Fruit/Apple.md",
+    "Ingredient/Condiment/Oil.md"
   ]
 }
