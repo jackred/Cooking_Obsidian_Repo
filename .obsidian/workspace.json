@@ -50,9 +50,117 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "6e315521fb493042",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipe/Main Dish/Garlic Aubergine & Crispy Tofu.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b42de2cb7bea4d01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipe/Main Dish/Garlic Aubergine & Crispy Tofu.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "10920aa2a368d0c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipe/Main Dish/Garlic Aubergine & Crispy Tofu.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5558c3a72828232d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipe/Main Dish/Garlic Aubergine & Crispy Tofu.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "38ee9a2c385bb704",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipe/Main Dish/Garlic Aubergine & Crispy Tofu.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ab31af5f7d017786",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingredient/Condiment/Sauce/Soy Sauce.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d9460658392eb334",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipe/Main Dish/Garlic Aubergine & Crispy Tofu.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a003eca80065711f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingredient/Spices/Ground Ginger.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "51020f8dba2fddeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipe/Main Dish/Garlic Aubergine & Crispy Tofu.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -118,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipe/Dessert/Cake/Apple upside down cake.md",
+                "file": "Recipe/Main Dish/Garlic Aubergine & Crispy Tofu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipe/Dessert/Cake/Apple upside down cake.md",
+                "file": "Recipe/Main Dish/Garlic Aubergine & Crispy Tofu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,27 +266,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipe/Dessert/Cake/Apple upside down cake.md"
+                "file": "Recipe/Main Dish/Garlic Aubergine & Crispy Tofu.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
-  "active": "0973fe783657ec68",
+  "active": "51020f8dba2fddeb",
   "lastOpenFiles": [
-    "Recipe/Dessert/Cake/Gingerbread.md",
-    "Recipe/Dessert/Cake/Apple upside down cake.md",
-    "Ingredient/Condiment/Olive Oil.md",
-    "Ingredient/Dairy/Gouda.md",
     "Recipe/Main Dish/Galette Bretonne.md",
-    "Ingredient/Condiment/Sesame Oil.md",
-    "Recipe/Main Dish/Potato with Balsamic Butter Sauce.md",
-    "Ingredient/Bakery/Powdered Sugar.md",
-    "Ingredient/Fruit/Apple.md",
-    "Ingredient/Condiment/Oil.md"
+    "Recipe/Dessert/Cake/Apple upside down cake.md",
+    "Recipe/Main Dish/Garlic Aubergine & Crispy Tofu.md",
+    "corn.md",
+    "Ingredient/Vegetable/Ginger.md",
+    "Ingredient/Spices/Ground Ginger.md",
+    "Ingredient/Condiment/Sauce/Oyster sauce.md",
+    "Ingredient/Condiment/Sauce/Soy Sauce.md",
+    "Ingredient/Condiment/S.md",
+    "Ingredient/Bakery/Cornstarch.md"
   ]
 }

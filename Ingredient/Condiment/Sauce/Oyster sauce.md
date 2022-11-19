@@ -2,5 +2,5 @@
 aliases: []
 ---
 #Ingredient
-#Oil
-#Lactose_Free 
+#Oyster_sauce
+#Lactose_Free

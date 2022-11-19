@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "#Lactose_free",
+      "color": {
+        "a": 1,
+        "rgb": 3342336
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6442545798727061,
+  "scale": 0.6622034106258621,
   "close": false
 }
